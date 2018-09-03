@@ -1,1 +1,4 @@
-# Speed-Dating-Experiment-Dataset-PLA
+# Speed-Dating-Experiment-Dataset
+
+[x] Perceptron
+[ ] SVM

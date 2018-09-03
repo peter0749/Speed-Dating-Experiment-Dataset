@@ -1,4 +1,4 @@
 # Speed-Dating-Experiment-Dataset
 
-[x] Perceptron
-[ ] SVM
+- [x] Perceptron
+- [ ] SVM
